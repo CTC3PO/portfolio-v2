@@ -17,12 +17,14 @@ import {
 
 const Technologies = () => (
   <Section id="tech">
+    <br />
     <SectionDivider />
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range of technologies in web development world, from
-      front-end to back-end.
+      I've learned and worked with a range of technologies in web development
+      world, from front-end to back-end. I'm currently learning the MERN stack
+      to bolster my full-stack s
     </SectionText>
     <List>
       <ListItem>

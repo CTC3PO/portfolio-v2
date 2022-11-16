@@ -16,9 +16,9 @@ const Hero = (props) => (
         Personal Portfolio
       </SectionTitle>
       <SectionText>
-        I'm Chau Tran. I love building apps and websites, currently I'm learning
-        the MERN stack. I'm also a computer science masters student at the
-        University of Pennsylvania.
+        🤗 I'm Chau Tran. I love building apps and websites, currently I'm
+        learning the MERN stack. I'm also a computer science masters student at
+        the University of Pennsylvania.
       </SectionText>
       <Button
         onClick={() =>

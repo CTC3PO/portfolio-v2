@@ -1,46 +1,81 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-      image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: "Project Management Site",
+    description:
+      "UA project management site that allows multiple users to log in,sign up/ logout, track project progress, comment on projects, delete projects, and sort projects by categories.",
+    image: "/images/app3-project-management-site-2.JPG",
+    tags: ["Mongo", "Express", "React", "Node"],
+    source: "https://github.com/CTC3PO/react-project-management-site",
+    visit: "https://project-management-site-woof.netlify.app/",
     id: 0,
   },
   {
-    title: 'E-Commerce',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
-    image: '/images/2.png',
-    tags: ['React', 'JavaScript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: "Finance Tracker",
+    description:
+      "A simple finance tracker app that with user login and authentication, database and authentication are from firebase",
+    image: "/images/app1-spending-tracker.JPG",
+    tags: ["React", "JavaScript"],
+    source: "https://github.com/CTC3PO/react-projects-finance-tracker",
+    visit: "https://user-spending-tracker.netlify.app/",
     id: 1,
   },
   {
-    title: 'WebRTC App',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-      image: '/images/3.jpg',
-      tags: ['React', 'WebRTC'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: "The Cocktail DB",
+    description:
+      "an app that displays cocktail recipes and let user search for cocktail recipes. Content is from the CocktailDB.",
+    image: "/images/app1-cocktail.JPG",
+    tags: ["React", "WebRTC"],
+    source: "https://github.com/CTC3PO/react-projects-cocktail-database",
+    visit: "https://react-cocktail-db-app.netlify.app/",
     id: 2,
   },
   {
-    title: 'Unichat',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: '/images/4.jpg',
-    tags: ['React', 'ChatEngine', 'Firebase'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: "The MovieDB",
+    description:
+      "a movie database app, content from the OMDb API - The Open Movie Database.",
+    image: "/images/app-movie.jpg",
+    tags: ["React", "ChatEngine", "Firebase"],
+    source: "https://github.com/CTC3PO/react-projects-cocktail-database",
+    visit: "https://react-projects-21-movie-db.netlify.app/",
     id: 3,
+  },
+  {
+    title: "Magic Match - Memory Game",
+    description:
+      "a simple game where user flips cards and finds matching pairs.",
+    image: "/images/app5.jpg",
+    tags: ["React", "ChatEngine", "Firebase"],
+    source: "https://github.com/CTC3PO/react-memory-game",
+    visit: "https://react-memory-game-app-ct.netlify.app/",
+    id: 4,
+  },
+  {
+    title: "Porfolio website v1",
+    description:
+      "a simple game where user flips cards and finds matching pairs.",
+    image: "/images/app4-portfolio-website 2.jpg",
+    tags: ["React", "ChatEngine", "Firebase"],
+    source: "https://github.com/CTC3PO/portfolio-ct",
+    visit: "https://portfolio-ct-pied.vercel.app/",
+    id: 5,
   },
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2019, text: "Graduated from NJIT" },
+  {
+    year: 2019,
+    text: "Started working at NYC Department of City Planning (NYCDCP)",
+  },
+  { year: 2021, text: "Built some app/web projects for work" },
+  {
+    year: 2022,
+    text: "Started attending UPenn's Master's of Computer Information Technology Program",
+  },
+  {
+    year: 2023,
+    text: "Started work as a freelance web developer, built websites for clients and volunteered",
+  },
+
+  { year: 2023, text: "Started looking for work as a full-stack developer" },
 ];
