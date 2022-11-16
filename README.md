@@ -1,2 +1,3 @@
-# portfolio-v2
-Personal Portfolio Website
+## Personal Portfolio
+
+![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
