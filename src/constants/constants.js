@@ -4,7 +4,7 @@ export const projects = [
     description:
       "UA project management site that allows multiple users to log in,sign up/ logout, track project progress, comment on projects, delete projects, and sort projects by categories.",
     image: "/images/app3-project-management-site-2.JPG",
-    tags: ["Mongo", "Express", "React", "Node"],
+    tags: ["React", "Firebase"],
     source: "https://github.com/CTC3PO/react-project-management-site",
     visit: "https://project-management-site-woof.netlify.app/",
     id: 0,
@@ -14,7 +14,7 @@ export const projects = [
     description:
       "A simple finance tracker app that with user login and authentication, database and authentication are from firebase",
     image: "/images/app1-spending-tracker.JPG",
-    tags: ["React", "JavaScript"],
+    tags: ["React", "Firebase"],
     source: "https://github.com/CTC3PO/react-projects-finance-tracker",
     visit: "https://user-spending-tracker.netlify.app/",
     id: 1,
@@ -24,7 +24,7 @@ export const projects = [
     description:
       "an app that displays cocktail recipes and let user search for cocktail recipes. Content is from the CocktailDB.",
     image: "/images/app1-cocktail.JPG",
-    tags: ["React", "WebRTC"],
+    tags: ["React", "APIs"],
     source: "https://github.com/CTC3PO/react-projects-cocktail-database",
     visit: "https://react-cocktail-db-app.netlify.app/",
     id: 2,
@@ -33,8 +33,8 @@ export const projects = [
     title: "The MovieDB",
     description:
       "a movie database app, content from the OMDb API - The Open Movie Database.",
-    image: "/images/app-movie.jpg",
-    tags: ["React", "ChatEngine", "Firebase"],
+    image: "/images/app-movie.JPG",
+    tags: ["React", "APIs"],
     source: "https://github.com/CTC3PO/react-projects-cocktail-database",
     visit: "https://react-projects-21-movie-db.netlify.app/",
     id: 3,
@@ -43,8 +43,8 @@ export const projects = [
     title: "Magic Match - Memory Game",
     description:
       "a simple game where user flips cards and finds matching pairs.",
-    image: "/images/app5.jpg",
-    tags: ["React", "ChatEngine", "Firebase"],
+    image: "/images/app5.JPG",
+    tags: ["React", "CSS"],
     source: "https://github.com/CTC3PO/react-memory-game",
     visit: "https://react-memory-game-app-ct.netlify.app/",
     id: 4,
@@ -53,8 +53,8 @@ export const projects = [
     title: "Porfolio website v1",
     description:
       "a simple game where user flips cards and finds matching pairs.",
-    image: "/images/app4-portfolio-website 2.jpg",
-    tags: ["React", "ChatEngine", "Firebase"],
+    image: "/images/app4-portfolio-website 2.JPG",
+    tags: ["React", "NextJS", "Typescript"],
     source: "https://github.com/CTC3PO/portfolio-ct",
     visit: "https://portfolio-ct-pied.vercel.app/",
     id: 5,
