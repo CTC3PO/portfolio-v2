@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Project Management Site",
     description:
-      "UA project management site that allows multiple users to log in,sign up/ logout, track project progress, comment on projects, delete projects, and sort projects by categories.",
+      "A project management site that allows multiple users to log in,sign up, logout, track project progress and comment",
     image: "/images/app-management.png",
     tags: ["React", "Firebase"],
     source: "https://github.com/CTC3PO/react-project-management-site",
