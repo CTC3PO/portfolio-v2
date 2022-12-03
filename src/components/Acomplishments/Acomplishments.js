@@ -21,8 +21,8 @@ const Acomplishments = () => (
     <SectionDivider />
     <br />
     <SectionTitle>Personal Accomplishments</SectionTitle>
-    <h2>At the NYCDCP</h2> <br />
-    New Staff Award
+    <h2>At the New York City Department of City Planning</h2> <br />
+    New Staff Award | Contribution to the COVID-19 pandemic recovery task force
     {/* <SectionTitle>Personal Accomplishments</SectionTitle>
     <Boxes>
       {data.map((card, index) => (

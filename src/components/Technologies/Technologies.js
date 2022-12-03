@@ -22,9 +22,9 @@ const Technologies = () => (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've learned and worked with a range of technologies in web development
-      world, from front-end to back-end. I'm currently learning the MERN stack
-      to bolster my full-stack s
+      Proficient in multiple programming languages: Java, Python, data science
+      libraries, Javascript and the MERN stack. I'm currently improving on the
+      MERN stack skills to level up my web development expertise.
     </SectionText>
     <List>
       <ListItem>
